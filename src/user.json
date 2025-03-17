@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1742140717826,
+    "username": "rajath",
+    "password": "kodnest123@",
+    "email": "rajath223@gmail.com",
+    "dob": "2013-01-02",
+    "age": 12
+  },
+  {
+    "id": 1742141240953,
+    "username": "rajath ",
+    "password": "kodnest234",
+    "email": "rajath222@gmail.com",
+    "dob": "2012-02-03",
+    "age": 13
+  },
+  {
+    "id": 1742141926369,
+    "username": "rajath22",
+    "password": "kodnest234",
+    "email": "rajath444@gmail.com",
+    "dob": "2011-05-14",
+    "age": 13
+  },
+  {
+    "id": 1742206008816,
+    "username": "steve",
+    "password": "steve233",
+    "email": "steve@gmail.com",
+    "dob": "2010-08-10",
+    "age": 14
+  },
+  {
+    "id": 1742221895349,
+    "username": "Rajath",
+    "password": "kodnest6778",
+    "email": "rajath55@gmail.com",
+    "dob": "2008-08-16",
+    "age": 16
+  }
+]
